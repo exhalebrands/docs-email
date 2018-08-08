@@ -2,8 +2,8 @@
   "name": "vuepress-test",
   "version": "1.0.0",
   "scripts": {
-    "build": "vuepress build",
-    "dev": "vuepress dev"
+    "docs:build": "vuepress build",
+    "docs:dev": "vuepress dev"
   },
   "license": "MIT"
 }
